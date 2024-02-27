@@ -1,6 +1,10 @@
 # Repo Template for git-tool compatible layout
 
-unfinished
+unfinished.
+
+Dependencies File:
+
+tbd
 
 ## Shortcut
 FIXME: Explain shortcuts generically and remove logic from actual program, instead replace with generic configurable shortcut
